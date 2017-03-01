@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1488358128 source:c:\users\grade\documents\4th\project1\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+
+1488354363 source:c:\users\grade\documents\4th\project1\struct.cpp
+	<iostream>
+
+1488357010 c:\users\grade\documents\4th\project1\point.h
+
+1488357026 source:c:\users\grade\documents\4th\project1\point.cpp
+	<iostream>
+	"Point.h"
+	<cmath>
+
+1488356977 source:c:\users\grade\documents\4th\project1\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1488357016 c:\users\grade\documents\4th\project1\circle.h
+	"Point.h"
+
