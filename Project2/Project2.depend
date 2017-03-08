@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1488962027 source:c:\users\grade\documents\4th\project2\date.cpp
+	"date.h"
+	<iostream>
+	<iomanip>
+
+1488961984 c:\users\grade\documents\4th\project2\date.h
+
+1488962164 source:c:\users\grade\documents\4th\project2\main.cpp
+	<iostream>
+	"date.h"
+
