@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1490776365 source:c:\users\grade\documents\4th\project2\electric\main.cpp
+	"Electric.h"
+	<iostream>
+
+1490776047 source:c:\users\grade\documents\4th\project2\electric\electric.cpp
+	"electric.h"
+	<iostream>
+	<cstring>
+
+1490776105 c:\users\grade\documents\4th\project2\electric\electric.h
+
