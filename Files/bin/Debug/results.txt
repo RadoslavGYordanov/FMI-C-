@@ -1,0 +1,15 @@
+Row 1
+Average: 1104.67
+Min: 1
+Max: 8874
+
+Row 2
+Average: 1853.2
+Min: 12
+Max: 5656
+
+Row 3
+Average: 1408.4
+Min: 12
+Max: 4344
+
