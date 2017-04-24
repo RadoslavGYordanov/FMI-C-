@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493031142 source:d:\4th\operator\main.cpp
+	<iostream>
+	"../vector.h"
+
+1493031697 source:d:\4th\vector.cpp
+	<iostream>
+	"vector.h"
+
+1493031578 d:\4th\vector.h
+
