@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1495794804 source:c:\users\grade\documents\electric\main.cpp
+	<iostream>
+	"device.h"
+
+1495796558 c:\users\grade\documents\electric\device.h
+
+1495796491 source:c:\users\grade\documents\electric\device.cpp
+	"device.h"
+	<iostream>
+	<cstring>
+
